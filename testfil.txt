@@ -1,4 +1,9 @@
 Hello world
+<<<<<<< HEAD
 
 Hej igen
 
+=======
+devändring
+Hej igen
+>>>>>>> dev
